@@ -7,6 +7,8 @@
 
 This program allows the user to encrypt data within an image and then decrypt data from an image using common steganography techniques.
 
+Java version found at: https://github.com/Sommos/java_steganography
+
 # Contribution
 
 If you'd like to contribute to `python_steganography` please submit a pull-request on a feature branch.
